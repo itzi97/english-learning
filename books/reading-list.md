@@ -4,7 +4,6 @@ Books I want to read or am currently reading.
 
 | Title | Author | Genre | Started | Notes |
 |-------|--------|-------|---------|-------|
-| Fahrenheit 451 | Ray Bradbury | Dystopian Fiction | June 16, 2026 | Currently reading 📖 |
 
 ---
 
