@@ -57,6 +57,13 @@ Words I've had trouble understanding while reading, with definitions and context
 | 155 | Bole | The trunk of a tree | "And threw him ten feet back against the bole of a tree." | *Fahrenheit 451* |
 | 182 | Moat | A deep ditch filled with water surrounding a castle or fortification | "Beyond the tin moat of the city." | *Fahrenheit 451* |
 | 185 | Cardamom | A fragrant spice with a warm, sweet-spicy aroma, used in cooking and perfumery | "All cardamon and moss and ragweed odour." | *Fahrenheit 451* |
+| 7 | Scuttling | Moving quickly with short, hurried steps, like a small animal | "A rat came scuttling down the slope." | *Dragon Rider* |
+| 7 | Fir | A type of tall evergreen conifer tree | "A group of crooked fir trees." | *Dragon Rider* |
+| 8 | Peevishly | In an irritable, grumpy, or sulky manner | "The rat continued peevishly." | *Dragon Rider* |
+| 8 | Brownie | In folklore, a small helpful household spirit or creature | "She was still a young brownie." | *Dragon Rider* |
+| 9 | Layabouts | Lazy people who do nothing useful; idlers | "Sharp-tongued brownie layabouts." | *Dragon Rider* |
+| 10 | Nattering | Chatting constantly and at length about unimportant things | "She just keeps nattering on." | *Dragon Rider* |
+| 11 | A-quiver | Trembling or quivering, vibrating with excitement or nervousness | "Her whiskers were all a-quiver." | *Dragon Rider* |
 
 ---
 
