@@ -1,11 +1,11 @@
 # 📖 Vocabulary
 
-Words I've had trouble understanding while reading, with definitions and context.
+All words logged across every book, with definitions and context.
 
 | Page | Word | Definition | Example Sentence | Source |
 |------|------|------------|-----------------|--------|
 | — | Ephemeral | Lasting for a very short time | "The ephemeral beauty of the sunset faded quickly." | *Example Book* |
-| — | Strode | Past tense of "stride" — to walk with long, confident steps | "He strode in a swarm of fireflies." | *Fahrenheit 451* |
+| — | Strode | Past tense of 'stride' — to walk with long, confident steps | "He strode in a swarm of fireflies." | *Fahrenheit 451* |
 | — | Waft | To move gently through the air, carried by a light current | "Whistling, he let the escalator waft him into the still night air." | *Fahrenheit 451* |
 | 20 | Thimble | A small metal cap worn on a fingertip to push a needle; here used metaphorically for tiny earpiece radios | "The thimble radios tamped tight." | *Fahrenheit 451* |
 | 21 | Thimblewasps | Bradbury's invented word combining 'thimble' (tiny earpiece) + 'wasps' (buzzing insects) — the buzzing sound of the ear radios | "There was only the singing of the thimblewasps in her tamped-shut ears." | *Fahrenheit 451* |
@@ -34,7 +34,7 @@ Words I've had trouble understanding while reading, with definitions and context
 | 74 | Sauterne | A sweet golden French white wine; here evoking a rich amber colour | "The walls like confetti or blood or sherry or sauterne." | *Fahrenheit 451* |
 | 76 | Tapioca | A starchy food made from cassava, usually white and pudding-like in texture | "A nice blend of vanilla tapioca." | *Fahrenheit 451* |
 | 81 | Dyke | A wall or embankment built to hold back water; used here metaphorically for holding back a flood of change | "We have our fingers in the dyke." | *Fahrenheit 451* |
-| ?? | Leaden | Heavy and dull like lead; oppressive, without energy or hope | "(Context forgotten — p.??)" | *Fahrenheit 451* |
+| — | Leaden | Heavy and dull like lead; oppressive, without energy or hope | "(Context forgotten — page unknown)" | *Fahrenheit 451* |
 | 101 | Sieve | A utensil with a mesh used to separate fine particles from coarse ones; used metaphorically for a leaky memory | "Trying to fill a sieve with sand." | *Fahrenheit 451* |
 | 108 | Garment | A piece of clothing | "Stitched the patches of the universe together into one garment for us." | *Fahrenheit 451* |
 | 112 | Praetorian | Relating to the Praetorian Guard — the elite soldiers protecting Roman emperors; used here for enforcers of power | "They're Caesar's praetorian guard." | *Fahrenheit 451* |
@@ -60,11 +60,28 @@ Words I've had trouble understanding while reading, with definitions and context
 | 7 | Scuttling | Moving quickly with short, hurried steps, like a small animal | "A rat came scuttling down the slope." | *Dragon Rider* |
 | 7 | Fir | A type of tall evergreen conifer tree | "A group of crooked fir trees." | *Dragon Rider* |
 | 8 | Peevishly | In an irritable, grumpy, or sulky manner | "The rat continued peevishly." | *Dragon Rider* |
-| 8 | Brownie | In folklore, a small helpful household spirit or creature | "She was still a young brownie." | *Dragon Rider* |
+| 8 | Brownie | In folklore, a small helpful household spirit or creature from British and Scottish tradition | "She was still a young brownie." | *Dragon Rider* |
 | 9 | Layabouts | Lazy people who do nothing useful; idlers | "Sharp-tongued brownie layabouts." | *Dragon Rider* |
 | 10 | Nattering | Chatting constantly and at length about unimportant things | "She just keeps nattering on." | *Dragon Rider* |
 | 11 | A-quiver | Trembling or quivering, vibrating with excitement or nervousness | "Her whiskers were all a-quiver." | *Dragon Rider* |
+| 14 | Scampered | Ran quickly with light, hurried steps | "The rat scampered nimbly up the rock." | *Dragon Rider* |
+| 14 | Nimbly | In a quick, light, and agile manner | "The rat scampered nimbly up the rock." | *Dragon Rider* |
+| 14 | Rustle | A soft, dry, crackling sound made by something moving gently, like leaves or animals in undergrowth | "The rustle of foxes out hunting by night." | *Dragon Rider* |
+| 15 | Perched | Sat or balanced on something narrow or elevated | "Sorrel perched on his back." | *Dragon Rider* |
+| 17 | Stout | Solidly built; fat and sturdy | "Said a large, stout dragon scornfully." | *Dragon Rider* |
+| 18 | Drat | A mild exclamation of annoyance or frustration | "Oh, drat it!" | *Dragon Rider* |
+| 19 | Titbit | A small, choice piece of food; a tasty morsel (British spelling of 'tidbit') | "Started searching the wet grass for her titbit." | *Dragon Rider* |
+| 20 | Huskily | In a low, slightly hoarse voice, often suggesting emotion or tiredness | "Then he said, huskily." | *Dragon Rider* |
+| 23 | Trudged | Walked slowly and with heavy steps, as if tired or struggling | "Slatebeard trudged back to his cave." | *Dragon Rider* |
+| 29 | Squabbling | Arguing noisily about something trivial | "Do stop squabbling." | *Dragon Rider* |
+| 29 | Clambered | Climbed awkwardly using both hands and feet | "Sorrel mumbled with her mouth full as she clambered up." | *Dragon Rider* |
+| 32 | Roughcast | A type of rough plaster coating applied to the outside of walls | "Got a handhold on the roughcast wall." | *Dragon Rider* |
+| 35 | Titch | Informal British term for a very small person | "A little titch like you isn't usually out." | *Dragon Rider* |
+| 38 | Gables | The triangular upper parts of a wall at the end of a ridged roof | "With tall windows and pointed gables." | *Dragon Rider* |
+| 38 | Balustrade | A railing supported by a row of short posts, typically along a staircase, bridge, or balcony | "Clutching the balustrade of the bridge." | *Dragon Rider* |
+| 40 | Ajar | Slightly open | "She stopped in front of a brown door that was slightly ajar." | *Dragon Rider* |
+| 51 | Quill | A large feather from a bird's wing or tail, especially when used as a writing pen | "A bird's feather with its quill sharpened lay beside them." | *Dragon Rider* |
 
 ---
 
-> Add new words as you encounter them. Include the book or source so you remember the context!
+> Add new words to `vocabulary.json` — this file is auto-generated from it.
